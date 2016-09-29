@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="altGraph ampersand" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="altGraph comma" />
   </action>
