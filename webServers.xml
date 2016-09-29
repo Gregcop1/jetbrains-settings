@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bcad4298-bcfb-4aca-9d7b-ded7690042c6" name="react-tutorial" url="http://localhost:3000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
