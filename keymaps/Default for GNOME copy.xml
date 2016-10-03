@@ -8,6 +8,9 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorDeleteLine">
@@ -26,6 +29,7 @@
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorSelectWord" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
