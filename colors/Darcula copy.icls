@@ -1,8 +1,9 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_ABBREVIATED_TEXT">
@@ -1392,6 +1393,13 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -1401,6 +1409,13 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="2b8ccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1449,6 +1464,13 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_ITALIC_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_ITALIC_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="b33e6b" />
@@ -1493,6 +1515,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="2b8ccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1585,6 +1615,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="2b8ccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1849,6 +1887,13 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="b33e6b" />
@@ -1899,6 +1944,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="2b8ccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1985,6 +2038,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="2b8ccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2108,6 +2169,13 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="578252" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_BOLD">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -2119,6 +2187,13 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="776c5d" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_BOLD_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="578252" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -2172,6 +2247,13 @@
       <value>
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="776c5d" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_BOLD_ITALIC_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="578252" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -2328,6 +2410,14 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_BOLD_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="578252" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_BOLD_QUOTED_TEXT_HTML_ENTITY">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -2463,6 +2553,13 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_ITALIC_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="578252" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_ITALIC_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="b33e6b" />
@@ -2515,6 +2612,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="776c5d" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="578252" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -2619,6 +2724,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="776c5d" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="578252" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -10976,6 +11089,13 @@
       <value>
         <option name="BACKGROUND" value="383838" />
         <option name="EFFECT_COLOR" value="2b8ccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="383838" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
