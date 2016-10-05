@@ -46,6 +46,12 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -53,8 +59,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextOccurence" />
   <action id="NextTab" />
   <action id="PreviousEditorTab" />
+  <action id="PreviousOccurence" />
   <action id="PreviousTab" />
   <action id="ResizeToolWindowLeft" />
   <action id="SelectNextOccurrence">
@@ -67,17 +75,13 @@
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
+  <action id="SwitchDown" />
   <action id="SwitchLeft">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
+  <action id="SwitchUp" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
