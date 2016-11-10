@@ -1,5 +1,6 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.coffee" value="CoffeeScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.coffee" value="CoffeeScript" />
   </component>
 </application>
