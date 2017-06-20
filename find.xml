@@ -16,6 +16,9 @@
       <mask>*.spec.ts</mask>
       <mask>scssspec.ts</mask>
       <mask>*.coffee</mask>
+      <mask>.</mask>
+      <mask>.x</mask>
+      <mask>.xml</mask>
     </recentFileMasks>
   </component>
 </application>
