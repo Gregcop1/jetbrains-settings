@@ -16,9 +16,13 @@
       <mask>*.spec.ts</mask>
       <mask>scssspec.ts</mask>
       <mask>*.coffee</mask>
-      <mask>.</mask>
-      <mask>.x</mask>
       <mask>.xml</mask>
+      <mask>.xm</mask>
+      <mask>.x</mask>
+      <mask>.</mask>
+      <mask>.p</mask>
+      <mask>.ph</mask>
+      <mask>.php</mask>
     </recentFileMasks>
   </component>
 </application>
